@@ -1,10 +1,10 @@
 # PHP/JS Design patterns implementation
 
-Implementation samples of Design Pattern in PHP & Javascript
+Implementation samples of Design Pattern in PHP & Javascript.
 
-This repository is our training at [Elao](http://www.elao.com/) in the use of design patterns.
+This repository is our training at [Elao](http://www.elao.com/) to practice the use of design patterns.
 
-Feel free to change the code and pull requests!
+Feel free to change the code and submit pull requests!
 
 ## Patterns
 
@@ -13,10 +13,10 @@ Feel free to change the code and pull requests!
 
 ## Run scripts
 
-Run sample php in CLI:
+Run php sample in CLI:
 
     $ php Factory/php/factory.php
     
-Install Node.js and run sample js in CLI:
+Install Node.js and run js sample in CLI:
 
     $ node Factory/js/factory.js
